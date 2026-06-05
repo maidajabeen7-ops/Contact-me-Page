@@ -1,1 +1,1 @@
-# Contact-me-Page
+A clean and user-friendly web-based Contact me page that allows users to submit their personal information easily. The project focuses on simplicity, responsive design, and smooth form handling with basic validation. Built to demonstrate fundamental front-end development skills and form design best practices.
